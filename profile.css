@@ -1,0 +1,152 @@
+body{
+    background-image: url("wallpaper.jpg");
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 10px;
+    background-repeat: no-repeat;
+}
+section{
+    width: 100%;
+    height: auto;
+}
+nav{
+    background-color: black;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+}
+nav ul{
+    display: flex;
+    font-style:oblique;
+    color: blanchedalmond;
+}
+a{
+    margin: 10px;
+    font-size: 16px;
+    color: blanchedalmond;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.logo{
+    font-family:RoadTest;
+    color:blanchedalmond;
+    font-size:22px;
+    text-shadow:1px 1px 1px;
+    margin:0px 0px 0px 10px;
+    
+}
+.active{
+    font-weight: bold;
+    color: blanchedalmond;
+}
+.text  p{
+    line-height: 10px;
+    margin: 45px 0px 25px;
+    display: flex;
+    
+}
+.text p:nth-child(1){
+    font-family:Calibri;
+    font-weight:bold;
+    font-size: 100px;
+    color:honeydew;
+    font-size:40px;
+    justify-content:center;
+    
+}
+.text p:nth-child(2){
+    font-family:Calibri;
+    font-weight:bold;
+    font-size: 100px;
+    color:honeydew;
+    font-size:40px;
+    justify-content:center;
+}
+
+.model1{
+    display: inline-block;
+    border-radius: 120px;
+    border:3px blanchedalmond;
+    margin: 20px 40px 10px 200px;
+    bottom:0px;
+}
+.model2{
+    display: inline-block;
+    border-radius: 2000px;
+    border:3px blanchedalmond;
+    margin: 20px 40px 10px 40px;
+    bottom:0px;
+}
+.model3{
+    display: inline-block;
+    border-radius: 120px;
+    border:3px blanchedalmond;
+    margin: 20px 40px 10px 40px;
+    bottom:0px;
+}
+.model4{
+    display: inline-block;
+    border-radius: 120px;
+    border:3px blanchedalmond;
+    margin: 20px 200px 10px 40px;
+    bottom:0px;
+}
+.about-text1 {
+    color: blanchedalmond;
+    padding: 25px;
+    height: 30px;
+    border: 1px solid white;
+    line-height: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0px 20px 10px 170px;
+
+}
+.about-text2 {
+    color: blanchedalmond;
+    padding: 23px;
+    line-height: 5px;
+    border: 1px solid white;
+    height: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0px 20px 10px 10px;
+
+}
+.about-text3 {
+    color: blanchedalmond;
+    padding: 23px;
+    line-height: 5px;
+    border: 1px solid white;
+    height: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0px 20px 10px 23px;
+
+}
+.about-text4 {
+    color: blanchedalmond;
+    padding: 23px;
+    border: 1px solid white;
+    height: 30px;
+    line-height: 5px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 0px 180px 10px 30px;
+}
+.about-text p {
+    color:floralwhite;
+    margin: 25px 150px 0px 150px;
+    padding: 20px;
+    font-size: 40px;
+    display: flex;
+
+}
+
+ 
+
+
+ 
